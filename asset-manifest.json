@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/grocer-app-deployed/static/css/main.ddbe1ed6.css",
+    "main.js": "/grocer-app-deployed/static/js/main.5e018006.js",
+    "static/js/787.4dfadd62.chunk.js": "/grocer-app-deployed/static/js/787.4dfadd62.chunk.js",
+    "static/media/meats.png": "/grocer-app-deployed/static/media/meats.c8f88a4520a48005a6aa.png",
+    "static/media/fruits.png": "/grocer-app-deployed/static/media/fruits.80fd7feee074d15ce425.png",
+    "static/media/vegetables.png": "/grocer-app-deployed/static/media/vegetables.5a5b471bd2af6db69129.png",
+    "static/media/loading.gif": "/grocer-app-deployed/static/media/loading.8c26c89ceb7b422ae89b.gif",
+    "static/media/snacks.png": "/grocer-app-deployed/static/media/snacks.69e0f5e4263871203de0.png",
+    "static/media/test.cms": "/grocer-app-deployed/static/media/test.a50a415f095a5ce92a51.cms",
+    "static/media/banner.jpg": "/grocer-app-deployed/static/media/banner.f94c9adff7f0069cc71f.jpg",
+    "index.html": "/grocer-app-deployed/index.html",
+    "main.ddbe1ed6.css.map": "/grocer-app-deployed/static/css/main.ddbe1ed6.css.map",
+    "main.5e018006.js.map": "/grocer-app-deployed/static/js/main.5e018006.js.map",
+    "787.4dfadd62.chunk.js.map": "/grocer-app-deployed/static/js/787.4dfadd62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddbe1ed6.css",
+    "static/js/main.5e018006.js"
+  ]
+}
